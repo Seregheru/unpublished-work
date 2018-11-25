@@ -5,5 +5,5 @@ Technical reports and unpublished work
 
 - Technical report on facade detection
 
-- Publication under review
+- Joint facade segmentation and registration (publication under review)
 
